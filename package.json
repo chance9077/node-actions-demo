@@ -1,0 +1,11 @@
+{
+  "name": "node-actions-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/chance9077/node-actions-demo.git",
+  "author": "chance9077 <675409431@qq.com>",
+  "license": "MIT"
+}
