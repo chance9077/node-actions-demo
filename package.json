@@ -7,5 +7,9 @@
   },
   "repository": "https://github.com/chance9077/node-actions-demo.git",
   "author": "chance9077 <675409431@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "internal-ip": "^6.2.0",
+    "public-ip": "^4.0.3"
+  }
 }
