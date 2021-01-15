@@ -6,4 +6,4 @@ const server = http.createServer((req, res) => {
   res.end('hello :', req.url)
 })
 
-server.listen(8080, '0.0.0.0', () => console.log('Server running.'))
+server.listen(8080, '0.0.0.0', () => console.log('Server running'))
